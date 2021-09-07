@@ -1,2 +1,2 @@
 # RShiny-app
-An app I created in RShiny
+An app I am creating in RShiny
